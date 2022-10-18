@@ -7,6 +7,8 @@
 
   Linkedin - https://www.linkedin.com/in/kaushal-powar-a52b1a159/
   
+  Tableau Public - https://public.tableau.com/app/profile/kaushal.powar7753
+  
  - I write blogs sometimes - https://writtenbykaushal.com/
 
 
