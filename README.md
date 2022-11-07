@@ -9,6 +9,8 @@
   
   [Tableau Public](https://public.tableau.com/app/profile/kaushal.powar7753)
   
+  [Kaggle](https://www.kaggle.com/kaushalpowar)
+  
   [Pinterest](https://in.pinterest.com/kaushal_1531/)
   
  - I write blogs sometimes - [blog](https://writtenbykaushal.com/)
