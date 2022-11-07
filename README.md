@@ -3,13 +3,15 @@
 - 🌱 I’m currently pursuing undergrad in AI & ML.
 - Follow me on
 
-  Twitter - https://twitter.com/Obelisk_1531
+  [Twitter](https://twitter.com/Obelisk_1531)
 
-  Linkedin - https://www.linkedin.com/in/kaushal-powar-a52b1a159/
+  [Linkedin](https://www.linkedin.com/in/kaushal-powar-a52b1a159/)
   
-  Tableau Public - https://public.tableau.com/app/profile/kaushal.powar7753
+  [Tableau Public](https://public.tableau.com/app/profile/kaushal.powar7753)
   
- - I write blogs sometimes - https://writtenbykaushal.com/
+  [Pinterest](https://in.pinterest.com/kaushal_1531/)
+  
+ - I write blogs sometimes - [blog](https://writtenbykaushal.com/)
 
 
 <!---
