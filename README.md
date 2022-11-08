@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushalpowar
 - 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
-- 🌱 I’m currently pursuing undergrad in AI & ML.
+- 🌱 I’m currently pursuing an undergrad in AI & ML.
 - Follow me on
 
   [Twitter](https://twitter.com/Obelisk_1531)
