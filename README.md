@@ -17,7 +17,6 @@
 
 
 <details>
-  <summary>📊 <b><i>GitHub Stats</i></b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=kaushalpowar&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
 </details> 
 
