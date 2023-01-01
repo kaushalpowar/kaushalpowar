@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Data+Analyst+/+Data+Scientest&center=true" alt="Typing SVG">
 </p>
-- 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
-- 🌱 I’m currently pursuing an undergrad in AI & ML.
+
+- 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence <br/>
+- 🌱 I’m currently pursuing an undergrad in AI & ML.<br/>
 - Follow me on
 
   [Twitter](https://twitter.com/Obelisk_1531)
