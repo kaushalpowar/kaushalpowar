@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kaushal Powar   </h1>
+<h1 align="center">Hello, I'm Kaushal Powar 👋  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Data+Analyst+/+Data+Scientest&center=true" alt="Typing SVG">
