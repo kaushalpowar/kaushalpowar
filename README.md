@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Data+Analyst+/+Data+Scientest&center=true" alt="Typing SVG">
 </p>
 
-- 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence <br/>
-- 🌱 I’m currently pursuing an undergrad in AI & ML.<br/>
+- 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
+- 🌱 I’m pursuing an undergrad in AI & ML.<br/>
+- 💼 Currently working as part time ML Engineer at Spiritual Data.
+- 🎈 Streamlit Student Ambassador.
 - Follow me on
 
   [Twitter](https://twitter.com/Obelisk_1531)
