@@ -20,7 +20,7 @@
   
   [Pinterest](https://in.pinterest.com/kaushal_1531/)
   
- - I write blogs sometimes - [blog](https://writtenbykaushal.com/)
+ - I write blogs sometimes - [blog](https://writtenbykaushal.hashnode.dev/)
 
 <h2>GitHub Stats</h2>
 
