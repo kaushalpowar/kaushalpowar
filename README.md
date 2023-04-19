@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kaushal Powar 👋  </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Data+Analyst+/+Data+Scientest&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Learning+Generative+AI&center=true" alt="Typing SVG">
 </p>
 
 - 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
