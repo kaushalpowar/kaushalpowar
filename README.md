@@ -32,11 +32,7 @@
 
 </p>
 
-<br/>
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalpowar&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
 </p>
 
 
