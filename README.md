@@ -5,8 +5,8 @@
 </p>
 
 - 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
-- 🌱 I’m pursuing an undergrad in AI & ML.<br/>
-- 💼 Currently working as part time ML Engineer at Spiritual Data.
+- 🌱 I’m pursuing an undergrad in AI.<br/>
+- 💼 Currently working as Python developer intern at ImaginorLabs.
 - 🎈 Streamlit Student Ambassador.
 - Follow me on
 
