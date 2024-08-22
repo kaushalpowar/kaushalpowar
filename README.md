@@ -5,22 +5,18 @@
 </p>
 
 - 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
-- 🌱 I’m pursuing an undergrad in AI.<br/>
-- 💼 Currently working as Python developer intern at ImaginorLabs.
+- 🌱 Studied undrad in AI.<br/>
+- 💼 Currently working as LLM intern at Stealth startup.
 - 🎈 Streamlit Student Ambassador.
 - Follow me on
 
-  [Twitter](https://twitter.com/Obelisk_1531)
+  [Twitter](https://twitter.com/holy_kau)
 
   [Linkedin](https://www.linkedin.com/in/kaushal-powar-a52b1a159/)
   
-  [Tableau Public](https://public.tableau.com/app/profile/kaushal.powar7753)
   
-  [Kaggle](https://www.kaggle.com/kaushalpowar)
   
-  [Pinterest](https://in.pinterest.com/kaushal_1531/)
-  
- - I write blogs sometimes - [blog](https://writtenbykaushal.hashnode.dev/)
+ - I write blogs (once in a blue moon) - [blog](https://writtenbykaushal.hashnode.dev/)
 
 <h2>GitHub Stats</h2>
 
