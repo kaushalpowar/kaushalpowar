@@ -5,7 +5,7 @@
 </p>
 
 - 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
-- 🌱 Studied undrad in AI.<br/>
+- 🌱 I studied AI as an undergrad..<br/>
 - 💼 Currently working as LLM intern at Stealth startup.
 - 🎈 Streamlit Student Ambassador.
 - Follow me on
