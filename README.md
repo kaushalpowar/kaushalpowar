@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF4&lines=Learning+Generative+AI&center=true" alt="Typing SVG">
 </p>
 
-- 👀 I’m interested in Artificial Intelligence & Natural Language Processing <br/>
-- 🌱 I studied AI as an undergrad..<br/>
-- 💼 Currently working as LLM intern at Stealth startup.
-- 🎈 Streamlit Student Ambassador.
-- Follow me on
+
 
   [Twitter](https://twitter.com/holy_kau)
 
